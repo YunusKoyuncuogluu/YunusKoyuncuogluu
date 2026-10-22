@@ -61,4 +61,4 @@ I've been making games with Unity for over six years. I enjoy writing clean code
 </p>
 
 ### 📬 Let's Connect
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/yunus-koyuncuo%C4%9Flu-7015541b9/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

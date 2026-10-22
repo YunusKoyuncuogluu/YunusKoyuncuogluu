@@ -1,7 +1,3 @@
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=YunusKoyuncuogluu&style=flat-square&color=blue" alt="Visitor Count" />
-</div>
-
 # Hi there! 👋 I'm Yunus.
 **Unity Game Developer | 6 Years of Experience**
 
